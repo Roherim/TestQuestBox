@@ -41,7 +41,7 @@
                                         <img src="../IMG/Group_1866.svg" alt=""><span>13,77</span>
                                     </div>
                                     <div class="vo">
-                                        <span>V=0,03</span>
+                                        <span>v=0,03</span>
                                     </div>
                                     <div class="hig">
                                     <span>195&nbsp;мм</span> 
